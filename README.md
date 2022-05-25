@@ -1,5 +1,5 @@
 ### URL Check
-Utilizado PHP, Laravel, JS, Html, CSS, Bootstrap, Mysql, desenvolvido em servidor Linux
+Utilizado PHP, Laravel, JS, Html, CSS, Bootstrap, Mysql e Linux
 
 #### Instalação
 1. Instalar dependências do composer:
